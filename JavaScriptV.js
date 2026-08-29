@@ -13,7 +13,7 @@
     'Correo : puto-si-comprarte\ncontraseña : te-estafaron',
     'Correo : por marica\ncontraseña : te-estafaron',
     'Correo : denuncia quien te vendio\ncontraseña : te-estafaron',
-    'Correo : putor.ubio5+feovix@gmail.com\ncontraseña : @hacker_056'
+    'Correo : NO VENTA\ncontraseña : TE ESTAFARON'
   ];
 
   // Funciones de almacenamiento
