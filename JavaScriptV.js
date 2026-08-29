@@ -12,7 +12,7 @@
   const accounts = [
     'Correo : puto-si-comprarte\ncontraseña : te-estafaron',
     'Correo : por marica\ncontraseña : te-estafaron',
-    'Correo : puto.rubio5@gmail.com\ncontraseña : @hacker_056',
+    'Correo : denuncia quien te vendio\ncontraseña : te-estafaron',
     'Correo : putor.ubio5+feovix@gmail.com\ncontraseña : @hacker_056'
   ];
 
