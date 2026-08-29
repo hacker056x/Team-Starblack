@@ -10,25 +10,25 @@
 
   // Lista de cuentas
   const accounts = [
-    'Correo : jckj.lord@gmail.com\ncontraseña : Watashi2126',
-	'Correo : davi.audi@hotmail.com\ncontraseña : 9412mancha',
-    'Correo : al.exgsrukr@gmail.com\ncontraseña : @ugustinDE01',
-    'Correo : Ttok2175@gmail.com\ncontraseña : ismail200',
-    'Correo : erbenilsonferreira@gmail.com\ncontraseña : Nilson063@',
-	'Correo : jucastilhosrosa@gmail.com\ncontraseña : 22122019',
-    'Correo : sandrineadam1976@gmail.com\ncontraseña : Putain2mot2passe2merde',
-	'Correo : dudasouza20018@gmail.com\ncontraseña : Edu1010#',
-    'Correo : samuel.raco@icloud.com\ncontraseña : Samuel1103?',
-    'Correo : anskar2031@gmail.com\ncontraseña : caixa9115',
-    'Correo : erbenilsonferreira@gmail.com\ncontraseña : Nilson063@',
-    'Correo : ahmedalkholy185@gmail.com\ncontraseña : ahmed123ali',
-    'Correo : dear13@outlook.com\ncontraseña : Fifa1212',
-    'Correo : Savanakraus19@outlook.be\ncontraseña : Savana-12',
-    'Correo : sophie.malinge@wanadoo.fr\ncontraseña : audrey49',
-    'Correo : federiconerilastrucci@gmail.com\ncontraseña : 12345678fede',
-	'Correo : wellingtondiret@gmail.com\ncontraseña : waml5391120',
-	'Correo : marquinho_viny157@hotmail.com\ncontraseña : mavi1734',
-    'Correo : markus21f_m942x@hexud.com\ncontraseña : 7894561230'
+    'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+	'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+    'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+	'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+	'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+    'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+    'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña :NO VENTA',
+    'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+    'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+	'Correo : TE STAFARON X MARICA\ncontraseña : NO VENTA',
+	'Correo : NO VENTA\ncontraseña : TE STAFARON X MARICA',
+    'Correo :TE STAFARON X MARICA\ncontraseña : NO VENTA'
   ];
 
   // Funciones de almacenamiento
